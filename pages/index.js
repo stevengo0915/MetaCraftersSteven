@@ -205,7 +205,7 @@ export default function HomePage() {
       onMouseLeave={handleMouseLeave}
     >
       <header>
-        <h1>Welcome to the Steven's ATM!</h1>
+        <h1>Welcome to Steven's ATM!</h1>
       </header>
       {initUser()}
       {showTransactions && showTransactionHistory()}
